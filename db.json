@@ -27,7 +27,28 @@
   ],
   "comments": [
     {
-
+      "id": 1,
+      "name": "شیما",
+      "descComment": "متن کامنت 1",
+      "postId0": 1
+    },
+    {
+      "id": 2,
+      "name": "سما",
+      "descComment": "متن کامنت 2",
+      "postId0": 1
+    },
+    {
+      "id": 3,
+      "name": "نسرین",
+      "descComment": "متن کامنت 3",
+      "postId0": 2
+    },
+    {
+      "id": 1,
+      "name": "بنیامین",
+      "descComment": "متن کامنت 4",
+      "postId0": 2
     }
   ],
   "profile": {
